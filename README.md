@@ -1,4 +1,4 @@
-<h1>[I'm cambiddy!](github.com/cambiddy)</h1>
+[I'm cambiddy!](github.com/cambiddy)
 <h3>I know bits of Python, HTML, CSS, a very small amount of Java, and currently I'm working on learning C++ for a project I'm interested in! <br />
 You can reach me on discord @cambiddy#6752. Always interested in learning new things!</h3>
 <h4>I've not been very active in this past year. Well... not active at all, but I'm looking forward to changing that with this newcoming year!<h4>
